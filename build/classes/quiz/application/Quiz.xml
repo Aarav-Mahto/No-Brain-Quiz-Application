@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\aarav\OneDrive\Desktop\Projects\Quiz Application\dist\Quiz_Application.jar</jar>
+  <outfile>C:\Users\aarav\OneDrive\Desktop\Projects\Quiz Application\src\quiz\application\Quiz.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\aarav\OneDrive\Desktop\Projects\Quiz Application\src\icon\quizIcon.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
